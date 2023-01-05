@@ -1,2 +1,1 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+Repository for my solutions to the assigments for the Lyft Back-End Engineering Virtual Experience Program.
